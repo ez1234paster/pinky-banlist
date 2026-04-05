@@ -1,0 +1,18 @@
+{
+  "BannedUsers": [
+    {
+      "Username": "roblox",
+      "UserId": 1,
+      "Reason": "diee",
+      "Proof": "no",
+      "BanDate": "2026-04-05"
+    },
+    {
+      "Username": "darkhoood10",
+      "UserId": 7310705445,
+      "Reason": "skid",
+      "Proof": "http://req-exe.win/proof/4zrbnb3zz6.png",
+      "BanDate": "2026-04-05"
+    }
+  ]
+}
