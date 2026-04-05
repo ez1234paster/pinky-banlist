@@ -13,6 +13,13 @@
       "Reason": "skid",
       "Proof": "http://req-exe.win/proof/4zrbnb3zz6.png",
       "BanDate": "2026-04-05"
+    },
+    {
+      "Username": "cifutom",
+      "UserId": 1885187,
+      "Reason": "Banning people after accusations ended",
+      "Proof": "nop",
+      "BanDate": "2026-04-05"
     }
   ]
 }
